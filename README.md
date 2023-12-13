@@ -17,7 +17,7 @@ The Resultss !!!!!!
 
 ![image](https://github.com/ichirohn/bring-back-old-context-menu-in-windows10-11/assets/32905698/be3483e3-5494-40fc-b534-07824224961e)
 
-and if u want bringing back the original context menu from windows 11 just install file undo_win11_context_menu
+and if u want bringing back the original context menu from windows 11 just click undo_win11_context_menu
 
 so thats it guys !!!
 
